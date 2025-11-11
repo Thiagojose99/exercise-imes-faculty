@@ -32,13 +32,13 @@ Durante o curso, foram abordados os seguintes tópicos:
 
 ---
 
-🧠 Aprendizado pessoal
+ Aprendizado pessoal
 
 Durante o desenvolvimento das atividades, aprendi na prática como aplicar os pilares da POO, organizar melhor o código em classes e métodos, e desenvolver soluções mais estruturadas e reutilizáveis.Na Faculdade foi a base do meu aprendizado em java Poo
 
-✍️ Autor
+ Autor
 
 Thiago José Gonçalves da Silva
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (EAD - IMES)
-💻 Em formação para desenvolvedor Back-End (Java/ python)
-📫 Contato: thiagojose20172017@gmail.com
+ Estudante de Análise e Desenvolvimento de Sistemas (EAD - IMES)
+ Em formação para desenvolvedor Back-End (Java/ python)
+ Contato: thiagojose20172017@gmail.com
